@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "name": "classical_sources",
+      "url": "https://raw.githubusercontent.com/aldaftarapp-bot/qamoos_data/refs/heads/main/classical_sources.json"
+    },
+    {
+      "name": "quran_refs",
+      "url": "https://raw.githubusercontent.com/aldaftarapp-bot/qamoos_data/refs/heads/main/quran_refs.json"
+    },
+    {
+      "name": "hadith_refs_part1",
+      "url": "https://raw.githubusercontent.com/aldaftarapp-bot/qamoos_data/refs/heads/main/hadith_refs_part1.json"
+    },
+    {
+      "name": "hadith_refs_part2",
+      "url": "https://raw.githubusercontent.com/aldaftarapp-bot/qamoos_data/refs/heads/main/hadith_refs_part2.json"
+    },
+    {
+      "name": "hadith_refs_part3",
+      "url": "https://raw.githubusercontent.com/aldaftarapp-bot/qamoos_data/refs/heads/main/hadith_refs_part3.json"
+    },
+    {
+      "name": "hadith_refs_part4",
+      "url": "https://raw.githubusercontent.com/aldaftarapp-bot/qamoos_data/refs/heads/main/hadith_refs_part4.json"
+    }
+  ]
+}
